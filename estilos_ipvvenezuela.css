@@ -1,0 +1,535 @@
+@font-face {src: url("CinzelDecorative-Black.ttf");
+font-family: CinzelDecorative-Black;}
+@font-face {src: url("CinzelDecorative-Bold.ttf");
+font-family: CinzelDecorative-Bold;}
+@font-face {src: url("CinzelDecorative-Regular.ttf");
+font-family: CinzelDecorative-Regular;}
+
+/*-------------------------------------------------*/
+*
+{margin: 0;
+padding: 0;}
+/*-------------------------------------------------*/
+html
+{font-size: 16px;
+font-family: sans-serif;}
+/*-------------------------------------------------*/
+body
+{background: none;}
+
+i
+{text-decoration:underline;
+font-style:italic;
+font-weight:500;}
+/*-----------------CABECERA-------------------------------------------------------------------------------------------------------------------*/
+/*-----------------CABECERA-------------------------------------------------------------------------------------------------------------------*/
+/*-----------------CABECERA-------------------------------------------------------------------------------------------------------------------*/
+/*-----------------CABECERA-------------------------------------------------------------------------------------------------------------------*/
+/*-----------------CABECERA-------------------------------------------------------------------------------------------------------------------*/
+/*-----------------CABECERA-------------------------------------------------------------------------------------------------------------------*/
+/*-----------------CABECERA-------------------------------------------------------------------------------------------------------------------*/
+/*-----------------CABECERA-------------------------------------------------------------------------------------------------------------------*/
+.cabecera
+{display: flex;
+flex-direction: row;
+box-sizing: border-box;
+height: 85px;
+position: relative;
+z-index: 100;
+padding: 0 25px 0 20px;
+justify-content: space-between;
+align-items: center;
+background: #fff;
+box-shadow: .5vh .5vh 1vh rgba(0, 0, 0, .25);}
+/*-------------------------------------------------*/
+#logo_cabecera 
+{display: flex;
+align-items: center;
+height: 6.5rem;}
+/*-------------------------------------------------*/
+#logo_cabecera img
+{width:200px;}
+/*-------------------------------------------------*/
+#menu_cabecera
+{display: flex;
+  position: relative;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+height: 25px;
+width: 25px;
+background: #414141;
+border: none;
+border-radius:3px;
+cursor: pointer;
+margin: 0;}
+/*-------------------------------------------------*/
+#menu_cabecera img
+{height: 11px;}
+/*-------------------------------------------------*/
+#menu_cabecera:active
+{background: #aaa;}
+/*-----------------PORTADAS-----------------------------------------------------------------------------------------------------------------------*/
+/*-----------------PORTADAS-----------------------------------------------------------------------------------------------------------------------*/
+/*-----------------PORTADAS-----------------------------------------------------------------------------------------------------------------------*/
+/*-----------------PORTADAS-----------------------------------------------------------------------------------------------------------------------*/
+/*-----------------PORTADAS-----------------------------------------------------------------------------------------------------------------------*/
+/*-----------------PORTADAS-----------------------------------------------------------------------------------------------------------------------*/
+/*-----------------PORTADAS-----------------------------------------------------------------------------------------------------------------------*/
+/*-----------------PORTADAS-----------------------------------------------------------------------------------------------------------------------*/
+#portada_index
+{display: flex;
+flex-direction:column;
+justify-content:center;
+height: 600px;
+gap:50px;
+box-sizing:border-box;
+padding:0 25px;
+gap:45px;}
+
+#logo_portada_index img
+{display: block;
+margin: 0px auto;
+width: 75%;}
+
+#texto_portada_index
+{margin: 0px auto;
+font-family: sans-serif;
+font-style: italic;
+font-size: 1rem;
+line-height: 30px;
+font-weight: 550;
+text-align: center;
+color: #414141;}
+
+#linea_2, #linea_4
+{letter-spacing: .7px;}
+/*-----------------RECURSOS-------------------------------------------------------------------------------------------------------------------*/
+/*-----------------RECURSOS-------------------------------------------------------------------------------------------------------------------*/
+/*-----------------RECURSOS-------------------------------------------------------------------------------------------------------------------*/
+/*-----------------RECURSOS-------------------------------------------------------------------------------------------------------------------*/
+/*-----------------RECURSOS-------------------------------------------------------------------------------------------------------------------*/
+/*-----------------RECURSOS-------------------------------------------------------------------------------------------------------------------*/
+/*-----------------RECURSOS-------------------------------------------------------------------------------------------------------------------*/
+/*-----------------RECURSOS-------------------------------------------------------------------------------------------------------------------*/
+
+.bandeja_recursos
+{background: #414141;
+  color: #fff;
+  box-sizing: border-box;
+padding: 50px 20px 40px 20px;}
+
+.bandeja_recursos a
+{text-decoration: none;}
+
+.bandeja_recursos audio
+{width: 300px;
+  color: #3394b3;
+margin: 10px auto 0px auto;
+}
+
+.encabezado_recursos
+{display: flex;
+align-items:center;
+  text-align: center;
+  text-decoration: none;
+  border: none;
+  background: #3394b3;
+  border-radius: 9px;
+  line-height:2rem;
+  height: 80px;
+  width: 300px;
+  color: #fff;
+font-size: 1.65rem;
+margin: 0 auto 15px auto;
+padding: 0 1rem;
+box-sizing:border-box;
+font-weight: 900;
+box-shadow: 5px 5px 10px 0px rgba(0, 0, 0, .5);}
+
+.etiqueta_serie
+{ background: #fff;
+position: relative;
+margin: 20px auto 35px auto;
+border: none 1px #ccc;
+border-radius: 10px;
+width: 300px;
+box-sizing: border-box;
+padding: 0 0 0 0;
+box-shadow: .5rem .5rem .5rem rgba(0, 0, 0, .5);}
+
+.etiqueta_serie h2
+{display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  color: #fff;
+  background: #3394b3;
+  border-radius: 9px 9px 0 0;
+  font-size: 1.65rem;
+margin: 0 0 30px 0;
+font-weight: 900;
+height: 80px;
+width: 300px;}  
+
+.etiqueta_serie p
+{text-align: left;
+  color: #414141;
+  font-size: 1.65rem;
+line-height: 20px;
+margin: 0 20px 20px 20px;
+font-weight: 300;}
+
+.etiqueta_serie p:first-of-type
+{text-align: left;
+  color: #414141;
+  font-size: 1.65rem;
+margin: 0 25px 30px 25px;
+line-height: 24px;
+font-weight: 550;}
+
+.etiqueta_serie a
+{display: block ;
+  text-align: center;
+  text-decoration: none;
+  border: none;
+  font-size: 1.65rem;
+  background: #3394b3;
+  border-radius: 0 0 9px 9px;
+  line-height: 80px;
+  height: 80px;
+  width: 300px;
+  color: #fff;
+margin: 0 0 10px 0;
+font-weight: 900;
+box-shadow: 0 0px 10px 0px rgba(0, 0, 0, .5);}
+
+.etiqueta_cancion
+{ background: #fff;
+position: relative;
+margin: 20px auto 35px auto;
+border: none 1px #ccc;
+border-radius: 10px;
+width: 300px;
+box-sizing: border-box;
+padding: 0 0 5px 0;
+box-shadow: .5rem .5rem .5rem rgba(0, 0, 0, .5);}
+
+.etiqueta_cancion h2
+{display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  color: #fff;
+  background: #3394b3;
+  border-radius: 9px 9px 0 0;
+  font-size: 1.65rem;
+margin: 0 0 30px 0;
+font-weight: 900;
+height: 80px;
+width: 300px;}  
+
+.etiqueta_cancion p
+{text-align: left;
+  color: #414141;
+  font-size: 1.65rem;
+line-height: 20px;
+margin: 0 20px 20px 20px;
+font-weight: 300;}
+
+.etiqueta_creencias
+{ background: #fff;
+position: relative;
+margin: 20px auto 35px auto;
+border: none 1px #ccc;
+border-radius: 10px;
+width: 300px;
+box-sizing: border-box;
+padding: 0 1rem;
+box-shadow: .5rem .5rem .5rem rgba(0, 0, 0, .5);}
+
+.etiqueta_creencias h2
+{display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  color: #fff;
+  background: #3394b3;
+  border-radius: 9px 9px 0 0;
+  font-size: 1.65rem;
+margin: 0 0 30px 0;
+font-weight: 900;
+height: 80px;
+width: 300px;}  
+
+.etiqueta_creencias p
+{text-align: left;
+  color: #414141;
+  font-size: 1.65rem;
+line-height: 20px;
+margin: 0 20px 20px 20px;
+font-weight: 300;}
+
+.etiqueta_creencias a
+{display: block ;
+  text-align: center;
+  text-decoration: none;
+  border: none;
+  font-size: 1.65rem;
+  background: #3394b3;
+  border-radius: 0 0 9px 9px;
+  line-height: 80px;
+  height: 80px;
+  width: 300px;
+  color: #fff;
+font-size: 16.5px;
+margin: 0 0 10px 0;
+font-weight: 900;
+box-shadow: 0 0px 10px 0px rgba(0, 0, 0, .5);}
+/*--------------ARTÍCULOS----------------------------------------------------------------------------------------------------------------------*/
+/*--------------ARTÍCULOS----------------------------------------------------------------------------------------------------------------------*/
+/*--------------ARTÍCULOS----------------------------------------------------------------------------------------------------------------------*/
+/*--------------ARTÍCULOS----------------------------------------------------------------------------------------------------------------------*/
+/*--------------ARTÍCULOS----------------------------------------------------------------------------------------------------------------------*/
+/*--------------ARTÍCULOS----------------------------------------------------------------------------------------------------------------------*/
+/*--------------ARTÍCULOS----------------------------------------------------------------------------------------------------------------------*/
+/*--------------ARTÍCULOS----------------------------------------------------------------------------------------------------------------------*/
+.punto_articulo
+{display: flex;
+position: relative;
+z-index: 2;
+flex-direction: column;
+background: #fff;
+padding: 0 3rem;
+box-sizing: border-box;
+max-width: 600px;
+margin: 0 auto;}
+
+.punto_articulo h1
+{color: #3394b3;
+margin: 2.5rem 0 0rem 0;
+padding: 0;
+font-family: sans-serif;
+font-weight: 900;
+font-size: 3.5rem;
+line-height: 3.75rem;
+text-align: left;
+border: none;
+letter-spacing: -0rem;} 
+
+.punto_articulo h2
+{color: #3394b3;
+margin: 2.5rem 0 0rem 0;
+padding: 0;
+font-family: sans-serif;
+font-weight: 900;
+font-size: 3.5rem;
+line-height: 3.5rem;
+text-align: left;
+border: none;
+letter-spacing: -0rem;} 
+
+.punto_articulo h3
+{color: #3394b3;
+margin: 2.5rem 0 0rem 0;
+padding: 0;
+font-family: sans-serif;
+font-weight: 900;
+font-size: 2.5rem;
+line-height: 2.65rem;
+text-align: left;
+border: none;
+letter-spacing: -0rem;} 
+
+.punto_articulo p 
+{font-family: sans-serif;
+font-size: 1.65rem;
+font-weight: 300;
+line-height: 2.5rem;
+margin: 1.5rem 0;
+text-align: justify;
+letter-spacing: 0rem;}
+
+.punto_articulo b
+{font-weight: 550;
+color: #414141;
+letter-spacing: 0rem;}
+
+.punto_articulo em
+{color: #3394b3;
+font-weight: 900;
+font-style: normal;
+letter-spacing: 0rem;
+font-size:1.65rem;}
+
+.punto_articulo ul
+{padding: 0 2rem 0 1rem;}
+
+.punto_articulo li
+{list-style-type:disc;
+padding: 0 0 0 1rem;
+font-size:1.65rem;
+margin: 1.5rem 0;
+}
+
+a
+{text-decoration: underline;
+color: #414141;}
+
+
+
+/*--------------NAVEGACIÓN-SERIE------------------------------------------------------------------------------------------------------------*/
+/*--------------NAVEGACIÓN-SERIE------------------------------------------------------------------------------------------------------------*/
+/*--------------NAVEGACIÓN-SERIE------------------------------------------------------------------------------------------------------------*/
+/*--------------NAVEGACIÓN-SERIE------------------------------------------------------------------------------------------------------------*/
+/*--------------NAVEGACIÓN-SERIE------------------------------------------------------------------------------------------------------------*/
+/*--------------NAVEGACIÓN-SERIE------------------------------------------------------------------------------------------------------------*/
+/*--------------NAVEGACIÓN-SERIE------------------------------------------------------------------------------------------------------------*/
+/*--------------NAVEGACIÓN-SERIE------------------------------------------------------------------------------------------------------------*/
+.navegacion_serie
+{display: block
+  position: relative;
+  box-sizing: border-box;
+  background: none;
+  padding: 2.5rem auto 0 auto;
+  z-index: 1;}
+
+.navegacion_serie nav
+{display: block;
+  position: relative;
+  flex-direction: column;
+  max-width: 500px;
+  box-sizing: border-box;
+  background: rgba(37, 25, 25, 0);
+  padding: 2.5rem auto 1rem auto;
+  z-index: 1;}
+
+.navegacion_serie a
+{display: block;
+  text-align: left;
+  text-decoration: none;
+  background: #fff;
+  color: #414141;
+  height: 5rem;
+  width: 100vw;
+  height: 50px;
+  font-size: 16.6px;
+  font-weight: 550;
+  font-family: sans-serif;
+  letter-spacing: .1rem;
+  line-height: 25px;
+  border:none
+  text-decoration: none;
+  padding: 0 0 0 30px;
+  box-sizing: border-box;
+  margin: 0 auto 17.5px auto;
+  box-shadow: 0 1px 0px rgba(0, 0, 0, .1);}
+
+.navegacion_serie a:first-child
+{display: block;
+  position: relative;
+  z-index: 1;
+text-align: center;
+background: #3394b3;
+color: #fff;
+height: 5rem;
+width: 100vw;
+height: 85px;
+font-size: 16.5px;
+font-weight: 550;
+font-family: sans-serif;
+letter-spacing: .1rem;
+line-height: 85px;
+border: none;
+text-decoration: none;
+padding: 0 0 0 0;
+box-sizing: border-box;
+margin: 0 0 20px 0;
+}
+
+.navegacion_serie a:last-child
+{display: block;
+  text-align: left;
+  text-decoration: none;
+  background: #fff;
+  color: #414141;
+  height: 5rem;
+  width: 300px;
+  height: 50px;
+  font-size: 16.6px;
+  font-weight: 550;
+  font-family: sans-serif;
+  letter-spacing: .1rem;
+  line-height: 25px;
+  border:none
+  text-decoration: none;
+  padding: 0 0 0 0;
+  box-sizing: border-box;
+  margin: 0 auto 0px auto;}
+
+.navegacion_serie h2
+{color: #3394b3;
+margin: 2.5rem 0 2.5rem 0;
+padding: 0;
+font-family: sans-serif;
+font-weight: 900;
+font-size: 3.5rem;
+line-height: 4.5rem;
+text-align: left;
+border: none;
+letter-spacing: -.15rem;}
+
+.texto_fondo_paginas
+{font-size: 1.65rem;
+  line-height: 25px;
+text-align: center;
+margin: 0 auto 30px auto;
+font-weight: 600;
+font-style: normal;}
+
+/*------MENU------*/
+
+.navegacion_movil
+{display: flex;
+flex-direction: column;}
+
+.navegacion_movil a
+{display: block;
+text-align: center;
+text-decoration: none;
+background: #3394b3;
+color: #fff;
+height: 75px;
+line-height:75px;
+margin: 0 0 5px 0;
+font-size: 1rem;
+font-weight: 550;
+font-family: sans-serif;
+border:none;
+text-decoration: none;
+box-shadow: 0rem 1px 0rem rgba(0, 0, 0, .05);}
+
+/*------PIE DE PAGINA------*/
+
+.pie_de_pagina
+{display: flex;
+flex-direction: column;
+position: relative;
+z-index: -10;
+background: #414141;
+height: 175px;
+justify-content: center;
+box-sizing: border-box;
+padding: 0px auto 0 auto;}
+
+.pie_de_pagina p
+{display: block;
+color: #fff;
+text-decoration: none;
+text-align: center;
+font-weight: 900;
+font-size: 1rem;
+box-sizing: border-box;
+padding: 0 0 0 0;
+margin: 0 0 5px 0;
+}

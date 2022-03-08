@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<!------------------------------------------------------------------------>
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="stylesheet" href="estilos_ipvvenezuela.css">
+	<meta name="theme-color" content="#3394b3">
+	<link rel="shortcut icon" type="image/svg" href="img_icono_ipvvenezuela.svg">
+	<meta name="descripción" content="Una familia de iglesias bíblicas en Venezuela.">
+	<title>Iglesia Palabra Viva</title>
+</head>
+<!------------------------------------------------------------------------>
+<body>
+<!------------------------------------------------------------------------>
+	<header class="cabecera">
+		<a id="logo_cabecera" href="index.html">
+		  		<img src="img_logo_ipvvenezuela.svg" alt="Logo de Iglesia Cristiana Bíblica Palabra Viva">
+		</a>
+		<button id="menu_cabecera">
+			<img src="img_icono_menu_cabecera.svg" alt="Icono para ir al menú de navegación de la web">
+		</button>
+	</header>
+	<!------------------------------------------------------------------------>
+	<div id="portada_index">
+		<div id="logo_portada_index">
+			<img	src="img_logo_ipvvenezuela_con_icono_arriba.svg" 
+			alt="icono icbpv" style="max-width:350px">
+		</div>
+		<div id="texto_portada_index">
+			<p>Iglesias edificadas
+				<br><span id="linea_2">sobre el fundamento</span>
+				<br>de los apóstoles y profetas
+				<br><span id="linea_4">siendo Cristo Jesús</span>
+				<br>la piedra angular
+			</p>
+		</div>
+	</div>
+	<!------------------------------------------------------------------------>
+	<nav class="navegacion_movil">
+		  <a href="iglesias.html">Iglesias</a>
+		  <a href="creencias.html">Creencias</a>
+		  <a href="recursos.html">Recursos</a>
+		  <a href="trabajo.html">Trabajo</a>
+		  <a href="apoya.html">Apoya</a>
+	</nav>
+	<!------------------------------------------------------------------------>
+	<footer class="pie_de_pagina">
+		<p>Correo: ipvvenezuela@gmail.com</p>
+		<p>Instagram: icbpalabraviva</p>
+		<p>Whatsapp: +58 424 917 2916</p>
+	</footer>
+	<!------------------------------------------------------------------------>
+	<script>
+		const botonMenuCabecera = document.querySelector("#menu_cabecera");
+		const menuInicio = document.querySelector(".navegacion_movil");
+		botonMenuCabecera.addEventListener("click", function () {
+			  menuInicio.scrollIntoView({
+				 behavior: "smooth",
+				 block: "center",
+				 inline: "end"
+			  })
+		});
+	</script>
+<!------------------------------------------------------------------------>
+</body>
+</html>

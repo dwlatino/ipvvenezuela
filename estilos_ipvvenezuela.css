@@ -21,14 +21,15 @@ i
 {text-decoration:underline;
 font-style:italic;
 font-weight:500;}
-/*-----------------CABECERA-------------------------------------------------------------------------------------------------------------------*/
-/*-----------------CABECERA-------------------------------------------------------------------------------------------------------------------*/
-/*-----------------CABECERA-------------------------------------------------------------------------------------------------------------------*/
-/*-----------------CABECERA-------------------------------------------------------------------------------------------------------------------*/
-/*-----------------CABECERA-------------------------------------------------------------------------------------------------------------------*/
-/*-----------------CABECERA-------------------------------------------------------------------------------------------------------------------*/
-/*-----------------CABECERA-------------------------------------------------------------------------------------------------------------------*/
-/*-----------------CABECERA-------------------------------------------------------------------------------------------------------------------*/
+
+hr
+{margin: 0 0 15px 0;}
+
+/*------CABECERA------*/
+/*------CABECERA------*/
+/*------CABECERA------*/
+/*------CABECERA------*/
+
 .cabecera
 {display: flex;
 flex-direction: row;
@@ -98,7 +99,7 @@ background:#414141;}
 {margin: 0px auto;
 font-family: sans-serif;
 font-style: italic;
-font-size: 20px;
+font-size: 17px;
 line-height: 32px;
 font-weight: 700;
 text-align: center;
@@ -106,6 +107,13 @@ color: #414141;}
 
 #linea_2, #linea_4
 {letter-spacing: .7px;}
+
+#texto_portada_otros
+{text-align:center;
+font-weight:900;
+font-style:italic;
+color:#414141;
+font-size:1.5rem}
 
 /*------RECURSOS------*/
 /*------RECURSOS------*/
@@ -116,16 +124,22 @@ color: #414141;}
 {background: #414141;
   color: #fff;
   box-sizing: border-box;
-padding: 50px 20px 40px 20px;}
+padding: 50px 20px 40px 20px;
+margin: 0 0 25px 0;}
+
+.bandeja_recursos p
+{font-size:1rem;
+text-align:center;
+font-weight:900;
+line-height:1.75rem;}
 
 .bandeja_recursos a
 {text-decoration: none;}
 
 .bandeja_recursos audio
 {width: 300px;
-  color: #3394b3;
-margin: 10px auto 0px auto;
-}
+ color: #3394b3;
+margin: 10px auto 0px auto;}
 
 .encabezado_recursos
 {display: flex;
@@ -299,42 +313,42 @@ position: relative;
 z-index: 2;
 flex-direction: column;
 background: #fff;
-padding: 0 3rem;
+padding: 0 25px;
 box-sizing: border-box;
 max-width: 600px;
 margin: 0 auto;}
 
 .punto_articulo h1
 {color: #3394b3;
-margin: 2.5rem 0 0rem 0;
+margin: 0 0 15px 0;
 padding: 0;
 font-family: sans-serif;
 font-weight: 900;
-font-size: 3.5rem;
-line-height: 3.75rem;
+font-size: 2.5rem;
+line-height: 3rem;
 text-align: left;
 border: none;
 letter-spacing: -0rem;} 
 
 .punto_articulo h2
 {color: #3394b3;
-margin: 2.5rem 0 0rem 0;
+margin: 0 0 10px 0;
 padding: 0;
 font-family: sans-serif;
 font-weight: 900;
-font-size: 3.5rem;
-line-height: 3.5rem;
+font-size: 2.25rem;
+line-height: 3rem;
 text-align: left;
 border: none;
 letter-spacing: -0rem;} 
 
 .punto_articulo h3
 {color: #3394b3;
-margin: 2.5rem 0 0rem 0;
+margin: 0 0 10px 0;
 padding: 0;
 font-family: sans-serif;
 font-weight: 900;
-font-size: 2.5rem;
+font-size: 1.5rem;
 line-height: 2.65rem;
 text-align: left;
 border: none;
@@ -342,10 +356,10 @@ letter-spacing: -0rem;}
 
 .punto_articulo p 
 {font-family: sans-serif;
-font-size: 1.65rem;
+font-size: 1rem;
 font-weight: 300;
-line-height: 2.5rem;
-margin: 1.5rem 0;
+line-height: 1.8rem;
+margin: 0 0 25px 0;
 text-align: justify;
 letter-spacing: 0rem;}
 
@@ -374,8 +388,6 @@ margin: 1.5rem 0;
 a
 {text-decoration: underline;
 color: #414141;}
-
-
 
 /*--------------NAVEGACIÓN-SERIE------------------------------------------------------------------------------------------------------------*/
 /*--------------NAVEGACIÓN-SERIE------------------------------------------------------------------------------------------------------------*/

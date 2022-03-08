@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta name="theme-color" content="#3394b3">
+	<meta name="descripción" content="Una familia de iglesias bíblicas en Venezuela.">
+	<link rel="stylesheet" href="estilos_ipvvenezuela.css">
+	<link rel="shortcut icon" type="image/svg" href="img_icono_ipvvenezuela.svg">
+	<title>Apoya IPV</title>
+</head>
+
+<body>
+<header class="cabecera">
+	<a id="logo_cabecera" href="index.html">
+		<img src="img_logo_ipvvenezuela.svg" alt="Logo de Iglesia Cristiana Bíblica Palabra Viva">
+	</a>
+	<button id="menu_cabecera">
+		<img src="img_icono_menu_cabecera.svg" alt="Icono para ir al menú de navegación de la web">
+	</button>
+</header>
+
+<div id="portada2">
+</div>
+	<div id="portada_index">
+	<div id="logo_portada_index">
+		<img	src="img_logo_ipvvenezuela_con_icono_arriba.svg" 
+		alt="icono icbpv" style="max-width:450px">
+	</div>
+	<div id="texto_portada_otros">
+		<p>APOYA</p>
+	</div>
+</div>
+
+<section class="punto_articulo">
+    <p>Tu aporte puede impulsar nuestra obra 
+    y beneficiar a creyentes 
+    necesitados entre nosotros.</p>
+    <p>Puedes apoyarnos y 
+    cuidar de nuestros miembros aportando 
+    económicamente a través de los medios 
+    que encontrarás más abajo.</p>
+    <p>Tu ofrenda será recibida por nuestra 
+    comisión de finanzas y distribuída de 
+    acuerdo a nuestra política interna.</p>
+    <p>Todos los miembros de nuestras iglesias 
+    pueden consultar dicha política con los 
+    ancianos y encargados de finanzas locales 
+    en las iglesias.</p>
+    <hr>
+    <h2>Bolívares</h2>
+    <h3>Mérida</h3>
+    <p>Banco Mercantil<br>Cuenta corriente<br>
+    0105 0065 6110 6536 6736</p>
+    <h3>Mucunután</h3>
+	  <h3>Barcelona</h3>
+	  <hr>
+    <h2>Bank of América o Zelle</h2>
+    <p>Contáctanos a nuestro correo 
+    (ipvvenezuela@gmail.com) para recibir 
+    nuestros datos y transferir tu aporte.</p>
+    <hr>
+    <h2>Efectivo</h2>
+    <p>Puedes ofrendar en efetivo a través del 
+    encargado de finanzas de cada iglesia.</p>
+</section>
+
+<section class="bandeja_recursos">
+      <p>Iglesias edificadas
+        <br><span id="linea_2">sobre el fundamento</span>
+        <br>de los apóstoles y profetas
+        <br><span id="linea_4">siendo Cristo Jesús</span>
+        <br>la piedra angular
+      </p>
+  </section>
+
+	<nav class="navegacion_movil">
+	  <a href="iglesias.html">Iglesias</a>
+	  <a href="creencias.html">Creencias</a>
+	  <a href="recursos.html">Recursos</a>
+	  <a href="trabajo.html">Trabajo</a>
+	  <a href="apoya.html">Apoya</a>
+	</nav>
+
+	<footer class="pie_de_pagina">
+		<p>Correo: ipvvenezuela@gmail.com</p>
+		<p>Instagram: icbpalabraviva</p>
+		<p>Whatsapp: +58 424 917 2916</p>
+	</footer>
+
+	<script>
+		const botonMenuCabecera = document.querySelector("#menu_cabecera");
+		const menuInicio = document.querySelector(".navegacion_movil");
+		botonMenuCabecera.addEventListener("click", function () {
+			  menuInicio.scrollIntoView({
+				 behavior: "smooth",
+				 block: "center",
+				 inline: "end"
+			  })
+		});
+	</script>
+</body>
+</html>

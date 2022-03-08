@@ -80,12 +80,12 @@ flex-direction:column;
 justify-content:center;
 box-sizing:border-box;
 padding:100px 25px;
-gap:75px;}
+gap:50px;}
 
 #logo_portada_index img
 {display: block;
 margin: 0px auto;
-width: 125px;}
+width: 250px;}
 
 #portada_separador
 {width:120px;
@@ -98,7 +98,7 @@ background:#414141;}
 {margin: 0px auto;
 font-family: sans-serif;
 font-style: italic;
-font-size: 1.25rem;
+font-size: 20px;
 line-height: 32px;
 font-weight: 700;
 text-align: center;

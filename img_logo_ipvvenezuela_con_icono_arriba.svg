@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="305.93567"
-   height="166.40805"
-   viewBox="0 0 305.93567 166.40805"
+   width="179.76837"
+   height="228.0946"
+   viewBox="0 0 179.76837 228.0946"
    version="1.1"
    id="svg1730"
    inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
@@ -23,10 +23,10 @@
      id="defs1724">
     <inkscape:perspective
        sodipodi:type="inkscape:persp3d"
-       inkscape:vp_x="0 : 460 : 1"
-       inkscape:vp_y="0 : 1000 : 0"
-       inkscape:vp_z="420 : 460 : 1"
-       inkscape:persp3d-origin="210 : 306.66667 : 1"
+       inkscape:vp_x="0 : 459.99999 : 1"
+       inkscape:vp_y="0 : 999.99998 : 0"
+       inkscape:vp_z="420 : 459.99999 : 1"
+       inkscape:persp3d-origin="210 : 306.66666 : 1"
        id="perspective5322" />
     <filter
        inkscape:label="Organic"
@@ -88,9 +88,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4142136"
-     inkscape:cx="-67.939412"
-     inkscape:cy="148.32642"
+     inkscape:zoom="2.0000001"
+     inkscape:cx="45.621074"
+     inkscape:cy="128.61497"
      inkscape:document-units="px"
      inkscape:current-layer="layer5"
      showgrid="false"
@@ -116,77 +116,77 @@
      inkscape:pagecheckerboard="false"
      borderlayer="false">
     <sodipodi:guide
-       position="-60.771817,-1996.324"
+       position="-119.31793,-1978.1817"
        orientation="1,0"
        id="guide889"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="149.22818,-1925.6009"
+       position="90.682071,-1907.4586"
        orientation="0,1"
        id="guide3930"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="359.22818,-2845.5696"
+       position="300.68205,-2827.4273"
        orientation="1,0"
        id="guide3932"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="146.72818,-1828.6329"
+       position="88.182071,-1810.4906"
        orientation="1,0"
        id="guide1679"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="488.19119,-2385.6009"
+       position="429.64507,-2367.4586"
        orientation="0,1"
        id="guide1689"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="149.22818,474.39915"
+       position="90.682071,492.54134"
        orientation="0,1"
        id="guide3396"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="691.82669,474.39915"
+       position="633.28057,492.54134"
        orientation="1,0"
        id="guide3400"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="-395.31934,474.39915"
+       position="-453.86545,492.54134"
        orientation="1,0"
        id="guide3402"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="-60.771817,14.399149"
+       position="-119.31793,32.541353"
        orientation="0,1"
        id="guide987"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="149.22818,-845.60085"
+       position="90.682071,-827.45864"
        orientation="0,1"
        id="guide2016"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="149.22818,-645.60085"
+       position="90.682071,-627.45864"
        orientation="0,1"
        id="guide2018"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="149.22818,-1045.6009"
+       position="90.682071,-1027.4587"
        orientation="0,1"
        id="guide2020"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="149.22818,-1245.6009"
+       position="90.682071,-1227.4586"
        orientation="0,1"
        id="guide2022"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="359.22818,-1445.6009"
+       position="300.68205,-1427.4586"
        orientation="0,1"
        id="guide2400"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="359.22818,-745.60085"
+       position="300.68205,-727.45864"
        orientation="0,1"
        id="guide3864"
        inkscape:locked="false" />
@@ -199,7 +199,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -208,25 +208,25 @@
      id="layer3"
      inkscape:label="Fondos"
      style="display:inline"
-     transform="translate(-60.771817,2092.0089)" />
+     transform="translate(-119.31793,2135.5534)" />
   <g
      inkscape:groupmode="layer"
      id="layer8"
      inkscape:label="Pie de página"
-     transform="translate(-60.771817,2092.0089)"
+     transform="translate(-119.31793,2135.5534)"
      style="display:inline" />
   <g
      inkscape:groupmode="layer"
      id="layer9"
      inkscape:label="Sombra p2"
-     transform="translate(-60.771817,2092.0089)"
+     transform="translate(-119.31793,2135.5534)"
      style="display:inline;opacity:0.36600001" />
   <g
      inkscape:groupmode="layer"
      id="layer6"
      inkscape:label="fondos mate p2"
      style="display:inline"
-     transform="translate(-60.771817,2092.0089)">
+     transform="translate(-119.31793,2135.5534)">
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.66666651px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
@@ -242,7 +242,7 @@
      inkscape:groupmode="layer"
      id="layer10"
      inkscape:label="imágenes"
-     transform="translate(-60.771817,-307.9911)">
+     transform="translate(-119.31793,-264.44674)">
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.66666651px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
@@ -259,24 +259,24 @@
      id="layer2"
      inkscape:label="Sombras forma central"
      style="display:inline;opacity:1"
-     transform="translate(-60.771817,2092.0089)" />
+     transform="translate(-119.31793,2135.5534)" />
   <g
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="fondos mate p1"
      style="display:inline"
-     transform="translate(-60.771817,2092.0089)" />
+     transform="translate(-119.31793,2135.5534)" />
   <g
      inkscape:groupmode="layer"
      id="layer11"
      inkscape:label="figuras de web"
-     transform="translate(-60.771817,-307.9911)" />
+     transform="translate(-119.31793,-264.44674)" />
   <g
      inkscape:groupmode="layer"
      id="layer5"
      inkscape:label="texto"
      style="display:inline;opacity:0.98999999"
-     transform="translate(-60.771817,2092.0089)">
+     transform="translate(-119.31793,2135.5534)">
     <path
        style="display:inline;opacity:1;fill:#414141;fill-opacity:1;stroke:none;stroke-width:1.15977609;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 210.65509,-2032.8422 v 7.7754 5.7051 5.9004 9.6914 h 0.008 c 0.29452,3.2139 3.00032,4.9357 5.06641,4.916 h 1.03125 19.55273 6.03321 6.03711 v -0.7754 h -1.03125 c -1.97003,0.017 -4.51756,-1.5173 -5.00586,-4.3887 v -22.7168 h -0.008 v -1.0312 c 0.0195,-2.0661 -1.702,-4.7719 -4.91601,-5.0664 l 0.004,-0.01 h -15.59179 -5.70703 z"
@@ -294,65 +294,76 @@
        style="display:inline;opacity:1;fill:#3394b3;fill-opacity:1;stroke:none;stroke-width:1.15977609;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <g
        aria-label="palabra"
-       transform="matrix(1.0547507,0,0,1.0547507,63.074323,-1713.3258)"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.66666651px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';letter-spacing:0px;word-spacing:0px;display:inline;fill:#414141;fill-opacity:1;stroke:none;stroke-width:1.09957361"
+       transform="matrix(0.74135734,0,0,0.74135734,140.62656,-1952.1629)"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.66666651px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';letter-spacing:0px;word-spacing:0px;display:inline;fill:#414141;fill-opacity:1;stroke:none;stroke-width:1.56439543"
        id="flowRoot10458">
       <path
          d="m 19.902969,-231.02733 q -1.36,3.12 -5.04,4.32 -1.08,0.36 -2,0.36 -2.84,0 -5.0800003,-1.48 v -0.4 q 3.0000003,0.08 4.8400003,-1.96 1.64,-1.76 1.64,-4.6 0,-4.36 -3.04,-5.64 -0.96,-0.4 -2.1200002,-0.4 h -2.68 v 23.4 q 0,1.04 0.7599999,1.8 0.7600001,0.72 1.8000001,0.72 h 0.52 v 0.4 H -2.6570313 v -0.4 h 0.5200001 q 1.04,0 1.75999995,-0.72 0.76,-0.76 0.8,-1.8 v -22.36 q -0.16,-1.36 -1.36,-2 -0.55999995,-0.32 -1.19999995,-0.32 h -0.5200001 v -0.4 H 10.702969 q 7.24,0 9.28,4.6 0.64,1.52 0.64,3.4 0,1.84 -0.72,3.48 z"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;font-family:'Cinzel Decorative';-inkscape-font-specification:'Cinzel Decorative Bold';fill:#414141;fill-opacity:1;stroke-width:0.81232876"
-         id="path901" />
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;font-family:'Cinzel Decorative';-inkscape-font-specification:'Cinzel Decorative Bold';fill:#414141;fill-opacity:1;stroke-width:1.15572381"
+         id="path901"
+         inkscape:connector-curvature="0" />
       <path
          d="m 48.582866,-214.90733 h 0.36 v 0.4 h -12.76 v -0.4 h 0.36 q 0.88,0 1.28,-0.52 0.44,-0.56 0.44,-1.04 0,-0.48 -0.2,-0.96 l -1.96,-4.92 h -9.36 l -2.08,4.92 q -0.2,0.52 -0.2,1 0,0.44 0.4,1 0.44,0.52 1.36,0.52 h 0.32 v 0.4 h -8.56 v -0.4 h 0.36 q 0.92,0 1.84,-0.56 0.92,-0.56 1.52,-1.68 l 9.24,-20.92 q 1.88,-3.96 2,-5.24 h 0.36 l 11.88,26.08 q 0.6,1.16 1.52,1.76 0.92,0.56 1.88,0.56 z m -21.16,-9.12 h 8 l -3.88,-9.84 z"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;font-family:'Cinzel Decorative';-inkscape-font-specification:'Cinzel Decorative Bold';fill:#414141;fill-opacity:1;stroke-width:0.81232876"
-         id="path903" />
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;font-family:'Cinzel Decorative';-inkscape-font-specification:'Cinzel Decorative Bold';fill:#414141;fill-opacity:1;stroke-width:1.15572381"
+         id="path903"
+         inkscape:connector-curvature="0" />
       <path
          d="m 49.90285,-214.90733 q 1.04,0 1.76,-0.72 0.76,-0.76 0.8,-1.8 v -22.16 q -0.04,-1.04 -0.8,-1.76 -0.72,-0.76 -1.76,-0.76 h -0.52 v -0.4 h 12.16 l -0.04,0.4 h -0.48 q -1.04,0 -1.8,0.76 -0.76,0.72 -0.76,1.76 v 23.36 h 5.24 q 2.92,0 4.88,-1.68 2,-1.68 2.96,-4.76 h 0.4 l -1.84,8.16 h -20.72 v -0.4 z"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;font-family:'Cinzel Decorative';-inkscape-font-specification:'Cinzel Decorative Bold';fill:#414141;fill-opacity:1;stroke-width:0.81232876"
-         id="path905" />
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;font-family:'Cinzel Decorative';-inkscape-font-specification:'Cinzel Decorative Bold';fill:#414141;fill-opacity:1;stroke-width:1.15572381"
+         id="path905"
+         inkscape:connector-curvature="0" />
       <path
          d="m 101.86282,-214.90733 h 0.36 v 0.4 H 89.462819 v -0.4 h 0.36 q 0.88,0 1.28,-0.52 0.44,-0.56 0.44,-1.04 0,-0.48 -0.2,-0.96 l -1.96,-4.92 h -9.36 l -2.08,4.92 q -0.2,0.52 -0.2,1 0,0.44 0.4,1 0.44,0.52 1.36,0.52 h 0.32 v 0.4 h -8.56 v -0.4 h 0.36 q 0.92,0 1.84,-0.56 0.92,-0.56 1.52,-1.68 l 9.24,-20.92 q 1.88,-3.96 2,-5.24 h 0.36 l 11.88,26.08 q 0.6,1.16 1.52,1.76 0.920001,0.56 1.880001,0.56 z m -21.160001,-9.12 h 8 l -3.88,-9.84 z"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;font-family:'Cinzel Decorative';-inkscape-font-specification:'Cinzel Decorative Bold';fill:#414141;fill-opacity:1;stroke-width:0.81232876"
-         id="path907" />
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;font-family:'Cinzel Decorative';-inkscape-font-specification:'Cinzel Decorative Bold';fill:#414141;fill-opacity:1;stroke-width:1.15572381"
+         id="path907"
+         inkscape:connector-curvature="0" />
       <path
          d="m 115.3428,-214.50733 h -12.68 v -0.4 h 0.52 q 1.04,0 1.76,-0.72 0.76,-0.72 0.8,-1.76 v -22.24 q -0.04,-1.04 -0.8,-1.76 -0.72,-0.72 -1.76,-0.72 h -0.52 v -0.4 h 11.6 q 4.64,0 7.36,1.68 2.76,1.68 2.8,5.16 -0.04,1.76 -0.76,3.08 -1.32,2.48 -4.16,2.84 3.08,0.28 5.08,2.32 2,2 2,5.12 0,3.76 -3.04,5.8 -3,2 -8.2,2 z m 2.68,-20.64 q -0.04,-5.64 -5.12,-5.64 h -1.16 v 24.44 h 1.84 q 0.04,0 0.08,0 2.76,0 4.4,-1.6 1.64,-1.6 1.64,-4.84 0,-2.28 -0.92,-3.76 -1.72,-2.76 -5.68,-2.76 0,0 0,0 v -0.36 q 0,0 0,0 2.08,0 3.48,-1.32 1.4,-1.36 1.44,-4.16 z"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;font-family:'Cinzel Decorative';-inkscape-font-specification:'Cinzel Decorative Bold';fill:#414141;fill-opacity:1;stroke-width:0.81232876"
-         id="path909" />
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;font-family:'Cinzel Decorative';-inkscape-font-specification:'Cinzel Decorative Bold';fill:#414141;fill-opacity:1;stroke-width:1.15572381"
+         id="path909"
+         inkscape:connector-curvature="0" />
       <path
          d="m 140.46268,-240.74733 h -1.72 q -0.08,0 -0.12,0 v 23.32 q 0.04,1.48 1.28,2.2 0.6,0.32 1.28,0.32 h 0.52 v 0.4 h -12.16 v -0.4 h 0.52 q 1.44,0 2.2,-1.24 0.32,-0.56 0.36,-1.24 v -22.2 q -0.04,-1.04 -0.8,-1.76 -0.72,-0.76 -1.76,-0.76 h -0.52 v -0.4 h 13.72 q 3.88,0 6.56,1.68 1.36,0.84 2.16,2.36 0.8,1.48 0.8,3.4 0,1.88 -0.68,3.48 -0.64,1.6 -2.2,2.8 -1.52,1.2 -3.68,1.44 2.32,0.76 4.08,3.52 4.32,6.92 6.4,8.24 1.04,0.64 2.6,0.68 v 0.4 h -3.92 q -3.4,0 -5.68,-0.92 -2.28,-0.96 -3.72,-3.24 -0.72,-1.16 -1.84,-3.48 -1.12,-2.36 -1.48,-3.36 -1.08,-2.4 -2.72,-2.68 v -0.4 h 1.24 q 1.8,0 3.16,-1.08 1.4,-1.08 1.88,-3.52 0.16,-0.84 0.16,-1.32 0,-3.28 -1.32,-4.72 -1.32,-1.48 -3.4,-1.52 -0.4,0 -1.2,0 z"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;font-family:'Cinzel Decorative';-inkscape-font-specification:'Cinzel Decorative Bold';fill:#414141;fill-opacity:1;stroke-width:0.81232876"
-         id="path911" />
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;font-family:'Cinzel Decorative';-inkscape-font-specification:'Cinzel Decorative Bold';fill:#414141;fill-opacity:1;stroke-width:1.15572381"
+         id="path911"
+         inkscape:connector-curvature="0" />
       <path
          d="m 186.62257,-214.90733 h 0.36 v 0.4 h -12.76 v -0.4 h 0.36 q 0.88,0 1.28,-0.52 0.44,-0.56 0.44,-1.04 0,-0.48 -0.2,-0.96 l -1.96,-4.92 h -9.36 l -2.08,4.92 q -0.2,0.52 -0.2,1 0,0.44 0.4,1 0.44,0.52 1.36,0.52 h 0.32 v 0.4 h -8.56 v -0.4 h 0.36 q 0.92,0 1.84,-0.56 0.92,-0.56 1.52,-1.68 l 9.24,-20.92 q 1.88,-3.96 2,-5.24 h 0.36 l 11.88,26.08 q 0.6,1.16 1.52,1.76 0.92,0.56 1.88,0.56 z m -21.16,-9.12 h 8 l -3.88,-9.84 z"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;font-family:'Cinzel Decorative';-inkscape-font-specification:'Cinzel Decorative Bold';fill:#414141;fill-opacity:1;stroke-width:0.81232876"
-         id="path913" />
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;font-family:'Cinzel Decorative';-inkscape-font-specification:'Cinzel Decorative Bold';fill:#414141;fill-opacity:1;stroke-width:1.15572381"
+         id="path913"
+         inkscape:connector-curvature="0" />
     </g>
     <g
        aria-label="V"
-       transform="matrix(1.927156,0,0,1.8713491,257.16038,-1526.5778)"
+       transform="matrix(1.927156,0,0,1.8713491,153.57965,-1508.4357)"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.66666651px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';letter-spacing:0px;word-spacing:0px;display:inline;fill:#3394b3;fill-opacity:1;stroke:none;stroke-width:1.09957361"
        id="flowRoot10522">
       <path
          d="m 32.582969,-252.42733 q 1,0 1.68,0.08 v 0.4 q -2.48,0.12 -4.28,1.2 -2.04,1.24 -2.92,2.32 -0.84,1.04 -1.36,1.72 -0.48,0.64 -0.96,1.56 -0.76,1.4 -1.4,2.76 l -10.72,23.44 q -1.84,3.96 -1.96,5.24 h -0.36 l -12.1200002,-26.12 q -0.6000001,-1.12 -1.5200001,-1.68 -0.9199999,-0.6 -1.8799999,-0.6 h -0.32 v -0.4 H 7.1829687 v 0.4 h -0.32 q -0.8799999,0 -1.32,0.56 -0.4,0.52 -0.4,1 0,0.48 0.16,0.96 l 6.8000003,16.52 8.28,-19.32 q 1.88,-4.44 4.4,-6.68 3.72,-3.36 7.8,-3.36 z"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;font-family:'Cinzel Decorative';-inkscape-font-specification:'Cinzel Decorative Bold';fill:#3394b3;fill-opacity:1;stroke-width:0.81232876"
-         id="path898" />
+         id="path898"
+         inkscape:connector-curvature="0" />
     </g>
     <g
        aria-label="iva"
-       transform="matrix(1.0547507,0,0,1.0547507,297.74482,-1700.1929)"
+       transform="matrix(1.0547507,0,0,1.0547507,194.16409,-1682.0508)"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.66666651px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';letter-spacing:0px;word-spacing:0px;display:inline;fill:#3394b3;fill-opacity:1;stroke:none;stroke-width:1.09957361"
        id="flowRoot10530">
       <path
          d="m -2.2570312,-214.90733 q 1.04,0 1.75999995,-0.72 0.76,-0.76 0.8,-1.8 v -22.2 q -0.04,-1.04 -0.8,-1.76 -0.71999995,-0.72 -1.75999995,-0.72 h -0.52 v -0.4 h 12.16 l -0.04,0.4 h -0.48 q -1.0400001,0 -1.8,0.72 -0.76,0.72 -0.76,1.76 v 22.2 q 0,1.04 0.76,1.8 0.7599999,0.72 1.8,0.72 h 0.48 l 0.04,0.4 h -12.16 v -0.4 z"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;font-family:'Cinzel Decorative';-inkscape-font-specification:'Cinzel Decorative Bold';fill:#3394b3;fill-opacity:1;stroke-width:0.81232876"
-         id="path891" />
+         id="path891"
+         inkscape:connector-curvature="0" />
       <path
          d="m 41.262956,-242.10733 h -0.36 q -0.92,0 -1.84,0.56 -0.92,0.56 -1.52,1.68 l -9.48,20.92 q -1.84,3.96 -1.96,5.24 h -0.36 l -12.12,-26.12 q -0.6,-1.12 -1.52,-1.68 -0.92,-0.6 -1.88,-0.6 H 9.9029559 v -0.4 H 22.622956 v 0.4 h -0.32 q -0.88,0 -1.32,0.56 -0.4,0.52 -0.4,1 0,0.48 0.16,0.96 l 6.8,16.52 7.04,-16.52 q 0.2,-0.52 0.2,-0.96 0,-0.48 -0.44,-1 -0.4,-0.56 -1.28,-0.56 h -0.36 v -0.4 h 8.56 z"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;font-family:'Cinzel Decorative';-inkscape-font-specification:'Cinzel Decorative Bold';fill:#3394b3;fill-opacity:1;stroke-width:0.81232876"
-         id="path893" />
+         id="path893"
+         inkscape:connector-curvature="0" />
       <path
          d="m 65.022914,-214.90733 h 0.36 v 0.4 h -12.76 v -0.4 h 0.36 q 0.88,0 1.28,-0.52 0.44,-0.56 0.44,-1.04 0,-0.48 -0.2,-0.96 l -1.96,-4.92 h -9.36 l -2.08,4.92 q -0.2,0.52 -0.2,1 0,0.44 0.4,1 0.44,0.52 1.36,0.52 h 0.32 v 0.4 h -8.56 v -0.4 h 0.36 q 0.92,0 1.84,-0.56 0.92,-0.56 1.52,-1.68 l 9.24,-20.92 q 1.88,-3.96 2,-5.24 h 0.36 l 11.88,26.08 q 0.6,1.16 1.52,1.76 0.92,0.56 1.88,0.56 z m -21.16,-9.12 h 8 l -3.88,-9.84 z"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;font-family:'Cinzel Decorative';-inkscape-font-specification:'Cinzel Decorative Bold';fill:#3394b3;fill-opacity:1;stroke-width:0.81232876"
-         id="path895" />
+         id="path895"
+         inkscape:connector-curvature="0" />
     </g>
     <text
        xml:space="preserve"
@@ -414,7 +425,7 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-92.766242,3124.8115)"
+     transform="translate(-151.31235,3168.356)"
      style="display:inline">
     <text
        xml:space="preserve"
@@ -464,6 +475,6 @@
      inkscape:groupmode="layer"
      id="layer7"
      inkscape:label="fondo000"
-     transform="translate(-60.771817,2092.0089)"
+     transform="translate(-119.31793,2135.5534)"
      style="display:inline" />
 </svg>

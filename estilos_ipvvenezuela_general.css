@@ -91,7 +91,7 @@ flex-direction:column;
 justify-content:center;
 box-sizing:border-box;
 padding:100px 50px 50px 50px;
-gap:50px;}
+gap:35px;}
 
 #portada_index h1
 {text-align:center;
@@ -113,7 +113,7 @@ background:#414141;}
 
 #texto_portada_index
 {margin: 0px auto;
-font-family: sans-serif;
+font-family: CinzelDecorative-Black;
 font-style: italic;
 font-size: 17px;
 line-height: 32px;
@@ -559,22 +559,25 @@ flex-direction: column;
 align-items:center;
 box-sizing:border-box;
 padding: 25px 25px;
-margin: 0 0 15px 0;}
+margin: 0 0 15px 0;
+gap:20px;}
 
 #navegacion_principal a
-{display: block;
+{display: flex;
+flex-direction: column;
+align-items:center;
+justify-content:center;
 text-align: center;
 text-decoration: none;
 background: #3394b3;
 color: #fff;
-height: 75px;
-width:350px;
+height: 115px;
+width:115px;
 line-height:75px;
 font-size: 1rem;
-font-weight: 550;
+font-weight: 900;
 box-sizing:border-box;
-margin: 0 0 10px 0;
-border-radius:7px;}
+border-radius:10px;}
 
 /*------PIE DE PAGINA------*/
 /*------PIE DE PAGINA------*/

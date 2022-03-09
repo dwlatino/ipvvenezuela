@@ -1,8 +1,8 @@
-@font-face {src: url("fuentes/CinzelDecorative-Black.ttf");
+@font-face {src: url("fuentes/fnt_CinzelDecorative-Black.ttf");
 font-family: CinzelDecorative-Black;}
-@font-face {src: url("fuentes/CinzelDecorative-Bold.ttf");
+@font-face {src: url("fuentes/fnt_CinzelDecorative-Bold.ttf");
 font-family: CinzelDecorative-Bold;}
-@font-face {src: url("fuentes/CinzelDecorative-Regular.ttf");
+@font-face {src: url("fuentes/fnt_CinzelDecorative-Regular.ttf");
 font-family: CinzelDecorative-Regular;}
 
 /*-------------------------------------------------*/
@@ -113,7 +113,7 @@ background:#414141;}
 
 #texto_portada_index
 {margin: 0px auto;
-font-family: CinzelDecorative-Black;
+font-family: CinzelDecorative-Bold;
 font-style: italic;
 font-size: 17px;
 line-height: 32px;

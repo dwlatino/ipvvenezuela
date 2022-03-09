@@ -1,8 +1,8 @@
-@font-face {src: url("CinzelDecorative-Black.ttf");
+@font-face {src: url("fuentes/CinzelDecorative-Black.ttf");
 font-family: CinzelDecorative-Black;}
-@font-face {src: url("CinzelDecorative-Bold.ttf");
+@font-face {src: url("fuentes/CinzelDecorative-Bold.ttf");
 font-family: CinzelDecorative-Bold;}
-@font-face {src: url("CinzelDecorative-Regular.ttf");
+@font-face {src: url("fuentes/CinzelDecorative-Regular.ttf");
 font-family: CinzelDecorative-Regular;}
 
 /*-------------------------------------------------*/
@@ -90,7 +90,7 @@ background:#414141;}
 flex-direction:column;
 justify-content:center;
 box-sizing:border-box;
-padding:100px 50px 50px 50px;
+padding:100px 50px 25px 50px;
 gap:35px;}
 
 #portada_index h1
@@ -540,9 +540,9 @@ color:#fff;
 font-size: 1rem;
 line-height: 25px;
 text-align: center;
-margin: 0 auto 30px auto;
-font-weight: 600;
-font-style: normal;}
+margin: 0 auto 0px auto;
+font-weight: 550;
+font-style: italic;}
 
 /*------MENU------*/
 /*------MENU------*/
@@ -559,7 +559,7 @@ flex-direction: column;
 align-items:center;
 box-sizing:border-box;
 padding: 25px 25px;
-margin: 0 0 15px 0;
+margin: 10px 0;
 gap:20px;}
 
 #navegacion_principal a
@@ -571,11 +571,11 @@ text-align: center;
 text-decoration: none;
 background: #3394b3;
 color: #fff;
-height: 115px;
-width:115px;
+height: 75px;
+width:150px;
 line-height:75px;
 font-size: 1rem;
-font-weight: 900;
+font-weight: 600;
 box-sizing:border-box;
 border-radius:10px;}
 
@@ -591,8 +591,6 @@ border-radius:10px;}
 #pie_de_pagina
 {display: flex;
 flex-direction: column;
-position: relative;
-z-index: -10;
 background: #414141;
 height: 175px;
 justify-content: center;

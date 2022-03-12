@@ -95,7 +95,7 @@ gap:35px;}
 
 #portada_index h1
 {text-align:center;
-font-size:2.5rem;
+font-size:1.65rem;
 color:#3394b3;
 font-family: CinzelDecorative-Bold;
 font-style:italic;}
@@ -159,177 +159,14 @@ text-decoration: none;
 background: #3394b3;
 color: #fff;
 height: 75px;
-width:300px;
+width:250px;
 font-size: 1rem;
 line-height:1.5rem;
 font-weight: 550;
 box-sizing:border-box;
 margin: 0 0 10px 0;
+padding:0 10px;
 border-radius:7px;}
-
-.bandeja_recursos audio
-{width: 300px;
-color: #3394b3;
-margin: 10px auto 0px auto;}
-
-.encabezado_recursos
-{display: flex;
-align-items:center;
-text-align: center;
-text-decoration: none;
-border: none;
-background: #3394b3;
-border-radius: 9px;
-line-height:2rem;
-height: 80px;
-width: 300px;
-color: #fff;
-font-size: 1.65rem;
-margin: 0 auto 15px auto;
-padding: 0 1rem;
-box-sizing:border-box;
-font-weight: 900;
-box-shadow: 5px 5px 10px 0px rgba(0, 0, 0, .5);}
-
-.etiqueta_serie
-{ background: #fff;
-position: relative;
-margin: 20px auto 35px auto;
-border: none 1px #ccc;
-border-radius: 10px;
-width: 300px;
-box-sizing: border-box;
-padding: 0 0 0 0;
-box-shadow: .5rem .5rem .5rem rgba(0, 0, 0, .5);}
-
-.etiqueta_serie h2
-{display: flex;
-align-items: center;
-justify-content: center;
-text-align: center;
-color: #fff;
-background: #3394b3;
-border-radius: 9px 9px 0 0;
-font-size: 1.65rem;
-margin: 0 0 30px 0;
-font-weight: 900;
-height: 80px;
-width: 300px;}  
-
-.etiqueta_serie p
-{text-align: left;
-color: #414141;
-font-size: 1.65rem;
-line-height: 20px;
-margin: 0 20px 20px 20px;
-font-weight: 300;}
-
-.etiqueta_serie p:first-of-type
-{text-align: left;
-color: #414141;
-font-size: 1.65rem;
-margin: 0 25px 30px 25px;
-line-height: 24px;
-font-weight: 550;}
-
-.etiqueta_serie a
-{display: block ;
-text-align: center;
-text-decoration: none;
-border: none;
-font-size: 1.65rem;
-background: #3394b3;
-border-radius: 0 0 9px 9px;
-line-height: 80px;
-height: 80px;
-width: 300px;
-color: #fff;
-margin: 0 0 10px 0;
-font-weight: 900;
-box-shadow: 0 0px 10px 0px rgba(0, 0, 0, .5);}
-
-.etiqueta_cancion
-{ background: #fff;
-position: relative;
-margin: 20px auto 35px auto;
-border: none 1px #ccc;
-border-radius: 10px;
-width: 300px;
-box-sizing: border-box;
-padding: 0 0 5px 0;
-box-shadow: .5rem .5rem .5rem rgba(0, 0, 0, .5);}
-
-.etiqueta_cancion h2
-{display: flex;
-align-items: center;
-justify-content: center;
-text-align: center;
-color: #fff;
-background: #3394b3;
-border-radius: 9px 9px 0 0;
-font-size: 1.65rem;
-margin: 0 0 30px 0;
-font-weight: 900;
-height: 80px;
-width: 300px;}  
-
-.etiqueta_cancion p
-{text-align: left;
-color: #414141;
-font-size: 1.65rem;
-line-height: 20px;
-margin: 0 20px 20px 20px;
-font-weight: 300;}
-
-.etiqueta_creencias
-{ background: #fff;
-position: relative;
-margin: 20px auto 35px auto;
-border: none 1px #ccc;
-border-radius: 10px;
-width: 300px;
-box-sizing: border-box;
-padding: 0 1rem;
-box-shadow: .5rem .5rem .5rem rgba(0, 0, 0, .5);}
-
-.etiqueta_creencias h2
-{display: flex;
-align-items: center;
-justify-content: center;
-text-align: center;
-color: #fff;
-background: #3394b3;
-border-radius: 9px 9px 0 0;
-font-size: 1.65rem;
-margin: 0 0 30px 0;
-font-weight: 900;
-height: 80px;
-width: 300px;}  
-
-.etiqueta_creencias p
-{text-align: left;
-color: #414141;
-font-size: 1.65rem;
-line-height: 20px;
-margin: 0 20px 20px 20px;
-font-weight: 300;}
-
-.etiqueta_creencias a
-{display: block ;
-text-align: center;
-text-decoration: none;
-border: none;
-font-size: 1.65rem;
-background: #3394b3;
-border-radius: 0 0 9px 9px;
-line-height: 80px;
-height: 80px;
-width: 300px;
-color: #fff;
-font-size: 16.5px;
-margin: 0 0 10px 0;
-font-weight: 900;
-box-shadow: 0 0px 10px 0px rgba(0, 0, 0, .5);}
 
 /*------ARTÍCULOS------*/
 /*------ARTÍCULOS------*/
@@ -396,8 +233,7 @@ margin: 0 0 25px 0;}
 
 .punto_articulo b
 {font-weight: 550;
-color: #414141;
-letter-spacing: 0rem;}
+color: #414141;}
 
 .punto_articulo em
 {color: #3394b3;
@@ -406,15 +242,13 @@ font-style: normal;
 letter-spacing: 0rem;
 font-size:1.25rem;}
 
-.punto_articulo ul
-{padding: 0 25px;}
-
-.punto_articulo ol
-{padding: 0 25px;}
+.punto_articulo ul, ol
+{padding: 0 25px;
+font-weight: 500;
+color: #414141;}
 
 .punto_articulo li
-{list-style-type:disc;
-padding: 0 0 0 1rem;
+{padding: 0 0 0 1rem;
 font-size:1.rem;
 margin: 1.5rem 0;
 color: #414141;}

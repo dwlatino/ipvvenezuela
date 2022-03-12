@@ -188,6 +188,9 @@ box-sizing: border-box;
 max-width: 600px;
 margin: 0 auto;}
 
+.punto_articulo img
+{border-radius:10px;}
+
 .punto_articulo h1
 {color: #3394b3;
 margin: 0 0 15px 0;

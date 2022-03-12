@@ -33,6 +33,7 @@ textoClaveAlFondoDePagina.innerHTML = `
 const navegacionPrincipal = document.getElementById("navegacion_principal");
 navegacionPrincipal.innerHTML = `
 <a href="index.html">Inicio</a>
+<a href="iglesias.html">Iglesias</a>
 <a href="recursos.html">Recursos</a>
 <a href="apoya.html">Apoya</a>
 `

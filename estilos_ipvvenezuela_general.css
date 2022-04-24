@@ -235,7 +235,8 @@ letter-spacing: -0rem;}
 font-size: 1rem;
 font-weight: 300;
 line-height: 1.7rem;
-margin: 0 0 25px 0;}
+margin: 0 0 0px 0;
+text-indent:3rem;}
 
 .punto_articulo b
 {font-weight: 550;

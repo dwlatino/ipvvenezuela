@@ -240,14 +240,15 @@ text-indent:1.5rem;}
 
 .punto_articulo b
 {font-weight: 550;
-color: #414141;}
+color: #414141;
+font-size:1.1rem;}
 
 .punto_articulo em
 {color: #3394b3;
 font-weight: 900;
 font-style: normal;
 letter-spacing: 0rem;
-font-size:1rem;}
+font-size:1.1rem;}
 
 .punto_articulo ul, ol
 {padding: 0 25px;

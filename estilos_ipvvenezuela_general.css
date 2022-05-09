@@ -49,7 +49,7 @@ box-shadow: .5vh .5vh 1vh rgba(0, 0, 0, .25);}
 #logo_cabecera 
 {display: flex;
 align-items: center;
-height: 6.5rem;}
+height: 85px;}
 
 #logo_cabecera img
 {width:200px;}
@@ -186,13 +186,14 @@ position: relative;
 z-index: 2;
 flex-direction: column;
 background: #fff;
-padding: 0 25px;
+padding: 0 10px;
 box-sizing: border-box;
 max-width: 600px;
 margin: 0 auto;}
 
 .punto_articulo img
-{border-radius:10px;}
+{border-radius:10px;
+margin:20px 20px 0;}
 
 .punto_articulo h1
 {color: #3394b3;
@@ -208,7 +209,7 @@ letter-spacing: -0rem;}
 
 .punto_articulo h2
 {color: #3394b3;
-margin: 10px 0 10px 0;
+margin: 2rem 0 1rem 0;
 padding: 0;
 font-family: sans-serif;
 font-weight: 900;
@@ -220,32 +221,30 @@ letter-spacing: -0rem;}
 
 .punto_articulo h3
 {color: #3394b3;
-margin: .5rem 0 .5rem 0;
+margin: 10px 0;
 padding: 0;
 font-family: sans-serif;
 font-weight: 900;
 font-size: 1.5rem;
-line-height: 2.65rem;
 text-align: left;
-border: none;
-letter-spacing: -0rem;} 
+border: none;} 
 
 .punto_articulo p 
 {font-family: sans-serif;
-font-size: 1.1rem;
-font-weight: 300;
-line-height: 1.8rem;
+font-size: 1.07rem;
+font-weight: 250;
+line-height: 2rem;
 margin: 0 0 0px 0;
-text-indent:1.5rem;}
+text-indent:2rem;}
 
 .punto_articulo b
-{font-weight: 550;
+{font-weight: 500;
 color: #414141;
 font-size:1.1rem;}
 
 .punto_articulo em
 {color: #3394b3;
-font-weight: 900;
+font-weight: 500;
 font-style: normal;
 letter-spacing: 0rem;
 font-size:1.1rem;}

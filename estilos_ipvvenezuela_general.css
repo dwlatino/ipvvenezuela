@@ -232,9 +232,9 @@ border: none;}
 .punto_articulo p 
 {font-family: sans-serif;
 font-size: 1.07rem;
-font-weight: 275;
+font-weight: 300;
 line-height: 2rem;
-color:#000;
+color: #414141;
 margin: 0 0 1.07rem 0;}
 
 .punto_articulo b
